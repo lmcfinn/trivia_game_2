@@ -1,0 +1,66 @@
+
+.jumbotron {
+
+	font-family: 'Lemonada';
+	font-size: 30px;
+	color: white;
+	background-image: url("../images/night.jpeg");
+
+}
+
+.row {
+	
+	font-size: 25px;
+
+}
+
+.questionrow {
+
+	margin-top: 45px;
+}
+
+.answerrow {
+
+	font-size: 18px;
+}
+
+.startbtn {
+
+	margin-left: 44%;
+	margin-top: 50px;
+
+	/*To be removed*/
+	margin-bottom: 30px;
+
+
+	width: 150px;
+	height: 120px;
+	font-size: 35px;
+	padding-top: 35px;
+}
+
+.submitbtn {
+
+	margin-left: 47%;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+a {
+	
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+
+	color: white;
+	text-decoration: none;
+}
+
+
+input {
+
+	margin-left: 10px;
+	margin-right: 10px;
+}
